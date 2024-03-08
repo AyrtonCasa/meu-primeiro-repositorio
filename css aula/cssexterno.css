@@ -1,0 +1,15 @@
+.divA{
+    color: #F4353f; width: 650px; height: 650px;
+}
+.divB{
+    color: #A47a; width: 50%; height: 50%;
+}
+.divCTexto{
+    color: #fff; font-size: 20px; background-color: blue; font-family: monospace; font-weight: italic;
+}
+.divD{
+    width: 50%; height: 50vh; background-color: rgb(34, 176, 255);
+}
+.divE{
+    width: 75vh; height: 50%; background-color: rgb(255, 56, 198);
+}
